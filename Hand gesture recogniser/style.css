@@ -1,0 +1,10 @@
+button{
+    letter-spacing: 5px;
+    color: crimson;
+};
+
+label{
+    background-color: aqua;
+    color: darkslateblue;
+    letter-spacing: 2px;
+}
